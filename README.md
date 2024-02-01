@@ -1,0 +1,1 @@
+# mantisshrimp-nginx-reverse-proxy
